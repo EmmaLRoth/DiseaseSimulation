@@ -1,0 +1,69 @@
+﻿<Window x:Class="DiseaseSimulation.UI.SettingsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:local="clr-namespace:DiseaseSimulation.UI"
+        mc:Ignorable="d"
+        Title="Settings" Height="380" Width="400"
+        WindowStartupLocation="CenterOwner"
+        ResizeMode="NoResize"
+        Background="#0B132B">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0" Text="⚙ Settings"
+                   FontSize="16" FontWeight="Bold"
+                   FontFamily="Lucida Console"
+                   Foreground="#CAD5E2" Margin="0,0,0,15"/>
+
+        <StackPanel Grid.Row="1" VerticalAlignment="Top">
+
+            <!-- Map file -->
+            <TextBlock Text="Map File:" Foreground="#CAD5E2" FontFamily="Lucida Console" Margin="0,0,0,3"/>
+            <DockPanel Margin="0,0,0,12">
+                <Button Content="Browse" DockPanel.Dock="Right" Width="70" Click="BrowseButton_Click"
+                        Background="#FFB7C3" FontFamily="Lucida Console"/>
+                <TextBox x:Name="FilePathBox" IsReadOnly="True" Margin="0,0,5,0"
+                         Background="#1C2541" Foreground="#CAD5E2"
+                         FontFamily="Lucida Console" BorderBrush="Gray"/>
+            </DockPanel>
+
+            <!-- Steps -->
+            <TextBlock Text="Steps:" Foreground="#CAD5E2" FontFamily="Lucida Console" Margin="0,0,0,3"/>
+            <TextBox x:Name="StepsBox" Text="200"
+                     Background="#1C2541" Foreground="#CAD5E2"
+                     FontFamily="Lucida Console" BorderBrush="Gray" Margin="0,0,0,12"/>
+
+            <!-- Infection Probability -->
+            <TextBlock Text="Infection Probability (0.0 - 1.0):" Foreground="#CAD5E2" FontFamily="Lucida Console" Margin="0,0,0,3"/>
+            <TextBox x:Name="InfectionProbBox" Text="0.3"
+                     Background="#1C2541" Foreground="#CAD5E2"
+                     FontFamily="Lucida Console" BorderBrush="Gray" Margin="0,0,0,12"/>
+
+            <!-- Infection Duration -->
+            <TextBlock Text="Infection Duration (days):" Foreground="#CAD5E2" FontFamily="Lucida Console" Margin="0,0,0,3"/>
+            <TextBox x:Name="InfectionDurBox" Text="10"
+                     Background="#1C2541" Foreground="#CAD5E2"
+                     FontFamily="Lucida Console" BorderBrush="Gray" Margin="0,0,0,12"/>
+
+            <!-- Incubation Duration -->
+            <TextBlock Text="Incubation Duration (days):" Foreground="#CAD5E2" FontFamily="Lucida Console" Margin="0,0,0,3"/>
+            <TextBox x:Name="IncubationDurBox" Text="5"
+                     Background="#1C2541" Foreground="#CAD5E2"
+                     FontFamily="Lucida Console" BorderBrush="Gray" Margin="0,0,0,12"/>
+        </StackPanel>
+
+        <!-- Buttons -->
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Right">
+            <Button Content="Cancel" Width="80" Margin="0,0,10,0" Click="CancelButton_Click"
+                    Background="#FFB7C3" FontFamily="Lucida Console"/>
+            <Button Content="Apply" Width="80" Click="ApplyButton_Click"
+                    Background="#FFB7C3" FontFamily="Lucida Console"/>
+        </StackPanel>
+    </Grid>
+</Window>

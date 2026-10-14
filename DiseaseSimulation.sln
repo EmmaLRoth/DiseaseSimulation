@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiseaseSimulation.Core", "DiseaseSimulation.Core\DiseaseSimulation.Core.csproj", "{80AADDA0-2726-4137-83C7-1A97E920B228}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiseaseSimulation.CLI", "DiseaseSimulation.CLI\DiseaseSimulation.CLI.csproj", "{0F912F81-21DA-4ABE-ACB8-77A898412640}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiseaseSimulation.UI", "DiseaseSimulation.UI\DiseaseSimulation.UI.csproj", "{65010182-65C6-493F-97DA-0B7275D6E05C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80AADDA0-2726-4137-83C7-1A97E920B228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80AADDA0-2726-4137-83C7-1A97E920B228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80AADDA0-2726-4137-83C7-1A97E920B228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80AADDA0-2726-4137-83C7-1A97E920B228}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F912F81-21DA-4ABE-ACB8-77A898412640}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F912F81-21DA-4ABE-ACB8-77A898412640}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F912F81-21DA-4ABE-ACB8-77A898412640}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F912F81-21DA-4ABE-ACB8-77A898412640}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65010182-65C6-493F-97DA-0B7275D6E05C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65010182-65C6-493F-97DA-0B7275D6E05C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65010182-65C6-493F-97DA-0B7275D6E05C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65010182-65C6-493F-97DA-0B7275D6E05C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

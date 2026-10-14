@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "DiseaseSimulation.CLI/1.0.0": {
+        "dependencies": {
+          "DiseaseSimulation.Core": "1.0.0"
+        },
+        "runtime": {
+          "DiseaseSimulation.CLI.dll": {}
+        }
+      },
+      "DiseaseSimulation.Core/1.0.0": {
+        "runtime": {
+          "DiseaseSimulation.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DiseaseSimulation.CLI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DiseaseSimulation.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\emmal\OneDrive\Documents\EMMA\UNIZA\semester4\C# a .NET\semestrálka_simulation\DiseaseSimulation\DiseaseSimulation.Core\bin\Debug\net10.0\DiseaseSimulation.Core.deps.json
+C:\Users\emmal\OneDrive\Documents\EMMA\UNIZA\semester4\C# a .NET\semestrálka_simulation\DiseaseSimulation\DiseaseSimulation.Core\bin\Debug\net10.0\DiseaseSimulation.Core.dll
+C:\Users\emmal\OneDrive\Documents\EMMA\UNIZA\semester4\C# a .NET\semestrálka_simulation\DiseaseSimulation\DiseaseSimulation.Core\bin\Debug\net10.0\DiseaseSimulation.Core.pdb
+C:\Users\emmal\OneDrive\Documents\EMMA\UNIZA\semester4\C# a .NET\semestrálka_simulation\DiseaseSimulation\DiseaseSimulation.Core\obj\Debug\net10.0\DiseaseSimulation.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emmal\OneDrive\Documents\EMMA\UNIZA\semester4\C# a .NET\semestrálka_simulation\DiseaseSimulation\DiseaseSimulation.Core\obj\Debug\net10.0\DiseaseSimulation.Core.AssemblyInfoInputs.cache
+C:\Users\emmal\OneDrive\Documents\EMMA\UNIZA\semester4\C# a .NET\semestrálka_simulation\DiseaseSimulation\DiseaseSimulation.Core\obj\Debug\net10.0\DiseaseSimulation.Core.AssemblyInfo.cs
+C:\Users\emmal\OneDrive\Documents\EMMA\UNIZA\semester4\C# a .NET\semestrálka_simulation\DiseaseSimulation\DiseaseSimulation.Core\obj\Debug\net10.0\DiseaseSimulation.Core.csproj.CoreCompileInputs.cache
+C:\Users\emmal\OneDrive\Documents\EMMA\UNIZA\semester4\C# a .NET\semestrálka_simulation\DiseaseSimulation\DiseaseSimulation.Core\obj\Debug\net10.0\DiseaseSimulation.Core.dll
+C:\Users\emmal\OneDrive\Documents\EMMA\UNIZA\semester4\C# a .NET\semestrálka_simulation\DiseaseSimulation\DiseaseSimulation.Core\obj\Debug\net10.0\refint\DiseaseSimulation.Core.dll
+C:\Users\emmal\OneDrive\Documents\EMMA\UNIZA\semester4\C# a .NET\semestrálka_simulation\DiseaseSimulation\DiseaseSimulation.Core\obj\Debug\net10.0\DiseaseSimulation.Core.pdb
+C:\Users\emmal\OneDrive\Documents\EMMA\UNIZA\semester4\C# a .NET\semestrálka_simulation\DiseaseSimulation\DiseaseSimulation.Core\obj\Debug\net10.0\ref\DiseaseSimulation.Core.dll

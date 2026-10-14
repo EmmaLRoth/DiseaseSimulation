@@ -1,0 +1,100 @@
+Day: 1
+Total population: 20
+S: 19,  E:  0,  I:  1, R:  0
+
+
+Day: 2
+Total population: 20
+S: 16,  E:  3,  I:  1, R:  0
+
+
+Day: 3
+Total population: 20
+S: 16,  E:  3,  I:  0, R:  1
+
+
+Day: 4
+Total population: 20
+S: 16,  E:  3,  I:  0, R:  1
+
+
+Day: 5
+Total population: 20
+S: 16,  E:  3,  I:  0, R:  1
+
+
+Day: 6
+Total population: 20
+S: 16,  E:  0,  I:  3, R:  1
+
+
+Day: 7
+Total population: 20
+S: 11,  E:  5,  I:  3, R:  1
+
+
+Day: 8
+Total population: 20
+S: 10,  E:  6,  I:  0, R:  4
+
+
+Day: 9
+Total population: 20
+S: 10,  E:  6,  I:  0, R:  4
+
+
+Day: 10
+Total population: 20
+S: 10,  E:  6,  I:  0, R:  4
+
+
+Day: 11
+Total population: 20
+S: 10,  E:  1,  I:  5, R:  4
+
+
+Day: 12
+Total population: 20
+S: 6,  E:  4,  I:  6, R:  4
+
+
+Day: 13
+Total population: 20
+S: 4,  E:  6,  I:  1, R:  9
+
+
+Day: 14
+Total population: 20
+S: 4,  E:  6,  I:  0, R:  10
+
+
+Day: 15
+Total population: 20
+S: 4,  E:  6,  I:  0, R:  10
+
+
+Day: 16
+Total population: 20
+S: 4,  E:  2,  I:  4, R:  10
+
+
+Day: 17
+Total population: 20
+S: 3,  E:  1,  I:  6, R:  10
+
+
+Day: 18
+Total population: 20
+S: 3,  E:  1,  I:  2, R:  14
+
+
+Day: 19
+Total population: 20
+S: 3,  E:  1,  I:  0, R:  16
+
+
+Day: 20
+Total population: 20
+S: 3,  E:  1,  I:  0, R:  16
+
+
